@@ -1,5 +1,5 @@
 .chamada{
-    background-color: aquamarine;
+     background-color: aquamarine;
      display: flex;
      padding-top: 80px;
      padding-bottom: 80px;
@@ -11,4 +11,16 @@ body{
     font-family: "Josefin Sans", sans-serif;
     color: black;
     margin-bottom: 100px;
+}
+header{
+    font-size: 35px;
+    color: blueviolet;
+    box-shadow: 3px seashell;
+    padding: 20px;
+ }
+ h1{
+    font-size: 40px;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
